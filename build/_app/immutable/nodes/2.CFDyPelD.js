@@ -1,0 +1,1 @@
+import"../chunks/DlWvHN3R.js";import"../chunks/BD1xuhI_.js";import{H as t}from"../chunks/CZnyZqJ6.js";function a(o){t(o,{title:"Grow Your Food. Grow Your Future.",subtitle:"Join the regenerative movement with Solarity Farm.",cta:"Learn More",ctaLink:"/about"})}export{a as component};

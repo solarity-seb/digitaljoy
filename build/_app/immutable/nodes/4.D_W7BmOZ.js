@@ -1,0 +1,1 @@
+import{t,a}from"../chunks/DlWvHN3R.js";import"../chunks/BD1xuhI_.js";import{z as r}from"../chunks/Bat62QCq.js";var n=t('<h1>Links Page</h1> <p>This is your joyful home on the internet.</p> <a href="/">Go Home →</a>',1);function s(o){var e=n();r(4),a(o,e)}export{s as component};
