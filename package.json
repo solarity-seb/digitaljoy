@@ -3,14 +3,15 @@
 	"private": true,
 	"version": "0.0.1",
 	"type": "module",
-"scripts": {
-  "dev": "vite dev",
-  "build": "svelte-kit sync && vite build",
-  "preview": "vite preview",
-  "prepare": "svelte-kit sync || echo ''"
-},
+	"scripts": {
+		"dev": "vite dev",
+		"build": "svelte-kit sync && vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''"
+	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^4.0.0",
+		"@sveltejs/adapter-netlify": "^5.0.0",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"svelte": "^5.0.0",
